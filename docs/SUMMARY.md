@@ -20,15 +20,16 @@
   * [Playing on Linux](installing-northstar/using-northstar/playing-on-linux.md)
 * [FAQ](faq.md)
 
-## Hosting a server with Northstar
+## Hosting Northstar
 
-* [Prerequisites](hosting-a-server-with-northstar/prerequisites.md)
-* [Hosting a Basic Listen Server](hosting-a-server-with-northstar/basic-listen-server.md)
-* [Hosting a Dedicated Server](hosting-a-server-with-northstar/dedicated-server/README.md)
-  * [Best practices](hosting-a-server-with-northstar/dedicated-server/best-practices.md)
-  * [Hosting on Linux](hosting-a-server-with-northstar/dedicated-server/hosting-on-linux.md)
-* [Troubleshooting](hosting-a-server-with-northstar/troubleshooting.md)
-* [Guides](hosting-a-server-with-northstar/hosting-guides.md)
+* [Prerequisites](hosting-northstar/prerequisites.md)
+* [Hosting a Basic Listen Server](hosting-northstar/basic-listen-server.md)
+* [Hosting a Dedicated Server](hosting-northstar/dedicated-server/README.md)
+  * [Best practices](hosting-northstar/dedicated-server/best-practices.md)
+  * [Hosting on Linux](hosting-northstar/dedicated-server/hosting-on-linux.md)
+* [Hosting a Master Server](hosting-northstar/master-server/README.md)
+* [Troubleshooting](hosting-northstar/troubleshooting.md)
+* [Guides](hosting-northstar/hosting-guides.md)
 
 ## Modding and Development
 

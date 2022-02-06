@@ -34,14 +34,14 @@ A: Due to the way Northstar works, you sadly cannot just create a private match 
 
 Check the prerequisites:
 
-{% content-ref url="hosting-a-server-with-northstar/prerequisites.md" %}
-[prerequisites.md](hosting-a-server-with-northstar/prerequisites.md)
+{% content-ref url="hosting-northstar/prerequisites.md" %}
+[prerequisites.md](hosting-northstar/prerequisites.md)
 {% endcontent-ref %}
 
 and instructions to host a _listen server_:
 
-{% content-ref url="hosting-a-server-with-northstar/basic-listen-server.md" %}
-[basic-listen-server.md](hosting-a-server-with-northstar/basic-listen-server.md)
+{% content-ref url="hosting-northstar/basic-listen-server.md" %}
+[basic-listen-server.md](hosting-northstar/basic-listen-server.md)
 {% endcontent-ref %}
 
 ### Q: Can I use Northstar to play singleplayer?
